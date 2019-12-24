@@ -1,0 +1,35 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+f = 0000, fExp =    0, fSig = 0.0000000000, class = 000100
+f = 0001, fExp =  -24, fSig = 1.0000000000, class = 000010
+f = 03ff, fExp =  -15, fSig = 1.1111111110, class = 000010
+f = 0400, fExp =  -14, fSig = 1.0000000000, class = 000001
+f = 7bff, fExp =   15, fSig = 1.1111111111, class = 000001
+f = 7c00, fExp =   31, fSig = 0.0000000000, class = 001000
+f = 7c01, fExp =   31, fSig = 0.0000000001, class = 100000
+f = 7dff, fExp =   31, fSig = 0.0111111111, class = 100000
+f = 7e00, fExp =   31, fSig = 0.1000000000, class = 010000
+f = 7fff, fExp =   31, fSig = 0.1111111111, class = 010000
+f = 8000, fExp =    0, fSig = 0.0000000000, class = 000100
+f = 8001, fExp =  -24, fSig = 1.0000000000, class = 000010
+f = 83ff, fExp =  -15, fSig = 1.1111111110, class = 000010
+f = 8400, fExp =  -14, fSig = 1.0000000000, class = 000001
+f = fbff, fExp =   15, fSig = 1.1111111111, class = 000001
+f = fc00, fExp =   31, fSig = 0.0000000000, class = 001000
+f = fc01, fExp =   31, fSig = 0.0000000001, class = 100000
+f = fdff, fExp =   31, fSig = 0.0111111111, class = 100000
+f = fe00, fExp =   31, fSig = 0.1000000000, class = 010000
+f = ffff, fExp =   31, fSig = 0.1111111111, class = 010000
+
+Test shifting of Subnormal Significand:
+
+f = 0001, fExp =  -24, fSig = 1.0000000000, class = 000010
+f = 0002, fExp =  -23, fSig = 1.0000000000, class = 000010
+f = 0004, fExp =  -22, fSig = 1.0000000000, class = 000010
+f = 0008, fExp =  -21, fSig = 1.0000000000, class = 000010
+f = 0010, fExp =  -20, fSig = 1.0000000000, class = 000010
+f = 0020, fExp =  -19, fSig = 1.0000000000, class = 000010
+f = 0040, fExp =  -18, fSig = 1.0000000000, class = 000010
+f = 0080, fExp =  -17, fSig = 1.0000000000, class = 000010
+f = 0100, fExp =  -16, fSig = 1.0000000000, class = 000010
+f = 0200, fExp =  -15, fSig = 1.0000000000, class = 000010
